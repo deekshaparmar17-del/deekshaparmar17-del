@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Deeksha Parmar👋
 
-<!--
-**deekshaparmar17-del/deekshaparmar17-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at VIT Bhopal  
+💻 Branch: Cyber Security and Digital Forensics
+📅 Year: 1st Year  
 
-Here are some ideas to get you started:
+🌱 Currently learning: Programming, Forensics, and AI ML  
+🚀 Interested in: Forensics, Researching, Cybernet and building real-world tech projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Goal: To develop strong technical skills and build impactful projects over the next four years.
+
+💬 Ask me about: My political veiws, I love a good introspective conversation.
+📫 How to reach me: EMAIL - deekshaparmar.17@gmail.com
+😄 Pronouns: SHE/HER
+⚡ Fun fact: octopuses have 3 hearts.
